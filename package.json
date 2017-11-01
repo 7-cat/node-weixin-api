@@ -23,7 +23,7 @@
     "node-weixin-menu": "^0.6.0",
     "node-weixin-message": "^0.1.1",
     "node-weixin-oauth": "^0.3.0",
-    "node-weixin-pay": "^0.3.1",
+    "node-weixin-pay": "git://github.com/7-cat/node-weixin-pay.git",
     "node-weixin-settings": "^0.2.0",
     "node-weixin-user": "^0.6.0"
   },
